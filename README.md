@@ -23,6 +23,6 @@ this is a switch bot event to notify discord.
 [Qiita narikakun](https://qiita.com/narikakun/items/4868c0bef27)様
 [Zenn Tanny](https://zenn.dev/tanny/articles/e03e28d1bbd37b)様
 
-# used
+# How to use
 
 1. 
